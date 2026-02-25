@@ -1,1 +1,1 @@
-# NewApp
+# окремий додаток, def, async def
